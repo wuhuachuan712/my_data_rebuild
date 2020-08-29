@@ -16,6 +16,8 @@
 
 ### 8. 数据库
 
+1. [MySQL：一些命令的使用](https://github.com/MikasaLevi/my_data_rebuild/issues/1)
+
 # 二、大型软件经验
 
 ### 整体全局的思考
