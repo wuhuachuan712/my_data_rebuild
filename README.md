@@ -4,6 +4,8 @@
 
 ### 2. 数据结构与算法
 
+1. [KMP算法](https://github.com/MikasaLevi/my_data_rebuild/issues/5)
+
 ### 3. 网络
 
 ### 4. 操作系统
