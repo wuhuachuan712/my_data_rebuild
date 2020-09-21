@@ -69,6 +69,18 @@
 
 ### 2. 高并发
 
+1. [并发问题：并发问题的一些处理方案1](https://github.com/MikasaLevi/my_data_rebuild/issues/43)
+2. [并发问题：并发问题的一些处理方案2](https://github.com/MikasaLevi/my_data_rebuild/issues/44)
+3. [并发问题：并发问题的一些处理方案3: @Version 乐观锁](https://github.com/MikasaLevi/my_data_rebuild/issues/45)
+4. [并发问题：记录持久化1-问题与解决方案](https://github.com/MikasaLevi/my_data_rebuild/issues/46)
+5. [并发问题：记录持久化2-延时和透支](https://github.com/MikasaLevi/my_data_rebuild/issues/47)
+6. [并发问题：记录持久化3-再谈透支(数据化解决方案)](https://github.com/MikasaLevi/my_data_rebuild/issues/48)
+7. [并发问题：记录持久化4-积压问题和锁占用](https://github.com/MikasaLevi/my_data_rebuild/issues/49)
+8. [并发问题：记录持久化5-热点配置](https://github.com/MikasaLevi/my_data_rebuild/issues/50)
+9. [并发问题：记录持久化6-参考专利:一种缓冲记账方法及装置](https://github.com/MikasaLevi/my_data_rebuild/issues/51)
+10. 并发问题：记录持久化7-异步化强制缓冲
+11. 并发问题：记录持久化8-吞吐量比缓冲更大的处理方式
+
 ### 3. 技术风险
 
 #### 3.1 容量
