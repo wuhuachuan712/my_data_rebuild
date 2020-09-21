@@ -14,6 +14,8 @@
 
 ### 6. 重构与设计模式
 
+1. [策略模式](https://github.com/MikasaLevi/my_data_rebuild/issues/8)
+
 ### 7. 编程语言(Java)
 
 #### 7.1 Java 集合
