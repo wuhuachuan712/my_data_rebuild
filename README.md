@@ -85,6 +85,9 @@
 
 ### 5. 敏捷实践
 
+1. [谈谈对敏捷开发的看法](https://github.com/MikasaLevi/my_data_rebuild/issues/36)
+2. [从第一个敏捷项目后再看敏捷实践的一些坑](https://github.com/MikasaLevi/my_data_rebuild/issues/37)
+
 ### 6. 开源框架
 
 ### 7. 研发流程与质量保证
