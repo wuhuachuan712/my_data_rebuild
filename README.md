@@ -89,6 +89,10 @@
 
 ### 7. 研发流程与质量保证
 
+1. [研发质量：如何做一个需求的方法论](https://github.com/MikasaLevi/my_data_rebuild/issues/28)
+2. [研发质量：如何做一个项目的方法论](https://github.com/MikasaLevi/my_data_rebuild/issues/29)
+3. [研发质量：如何做一个全站性质项目的方法论](https://github.com/MikasaLevi/my_data_rebuild/issues/30)
+
 # 三、扩展视野
 
 ### 1. 区块链
