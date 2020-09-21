@@ -16,6 +16,14 @@
 
 ### 7. 编程语言(Java)
 
+#### 7.1 Java 集合
+
+#### 7.2 Java 多线程
+
+#### 7.3 Java IO
+
+#### 7.4 Java 内存模型与垃圾回收
+
 1. [Java垃圾回收1：垃圾的判断&&基本的收集算法和垃圾回收器](https://github.com/MikasaLevi/my_data_rebuild/issues/6)
 2. [Java垃圾回收2：G1 && Shenandoah && ZGC 垃圾收集器](https://github.com/MikasaLevi/my_data_rebuild/issues/7)
 
