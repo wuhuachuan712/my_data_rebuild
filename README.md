@@ -16,6 +16,8 @@
 
 ### 7. 编程语言(Java)
 
+1. [Java垃圾回收1：垃圾的判断&&基本的收集算法和垃圾回收器](https://github.com/MikasaLevi/my_data_rebuild/issues/6)
+
 ### 8. 数据库
 
 1. [MySQL：锁相关概念：共享锁,排他锁以及意向锁,间隙锁,临键锁,插入意向锁](https://github.com/MikasaLevi/my_data_rebuild/issues/3)
