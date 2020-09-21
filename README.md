@@ -96,6 +96,11 @@
 5. [研发质量：团队质量意识的push](https://github.com/MikasaLevi/my_data_rebuild/issues/33)
 5. [研发质量：蚂蚁金服(支付宝)-账务团队个人bug总结](https://github.com/MikasaLevi/my_data_rebuild/issues/32)
 
+### 8. 项目管理
+
+1. [项目管理：项目 owner 的一些职责](https://github.com/MikasaLevi/my_data_rebuild/issues/34)
+2. [作为一个项目owner应该问自己的几个问题](https://github.com/MikasaLevi/my_data_rebuild/issues/35)
+
 # 三、扩展视野
 
 ### 1. 区块链
