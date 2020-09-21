@@ -43,6 +43,27 @@
 
 ### 1. 分布式
 
+#### 1.1 一些理论部分的学习
+
+1. [《Time, Clocks, and the Ordering of Events in a Distributed System》](https://github.com/MikasaLevi/my_data_rebuild/issues/14)
+2. [《Implementing Fault-Tolerant Services Using the State Machine Approach: A Tutorial》](https://github.com/MikasaLevi/my_data_rebuild/issues/15)
+3. [Raft1：概念与算法核心](https://github.com/MikasaLevi/my_data_rebuild/issues/10)
+4. [Raft2：Leader election 领导者选举](https://github.com/MikasaLevi/my_data_rebuild/issues/11)
+5. [Raft3：Log Replication 日志复制](https://github.com/MikasaLevi/my_data_rebuild/issues/12)
+6. [Raft4：Safety 两种特殊场景](https://github.com/MikasaLevi/my_data_rebuild/issues/13)
+7. [Paxos：问题背景](https://github.com/MikasaLevi/my_data_rebuild/issues/16)
+8. [Paxos：算法机制-choosing a value](https://github.com/MikasaLevi/my_data_rebuild/issues/17)
+9. [Paxos：prepare&accept请求调用情况分析](https://github.com/MikasaLevi/my_data_rebuild/issues/18)
+
+#### 1.2 实际应用的总结
+
+1. [分布式基础理论（ACID/BASE/CAP）](https://github.com/MikasaLevi/my_data_rebuild/issues/19)
+2. [A系统->B系统的分布式一致性分析](https://github.com/MikasaLevi/my_data_rebuild/issues/20)
+3. [分布式事务：TCC 概念与 Seata 中的 TCC 实现方案1](https://github.com/MikasaLevi/my_data_rebuild/issues/21)
+4. [分布式事务： Seata 中的 TCC 实现方案2](https://github.com/MikasaLevi/my_data_rebuild/issues/22)
+5. [TCC 模型下的三大问题：空回滚/悬挂/幂等](https://github.com/MikasaLevi/my_data_rebuild/issues/23)
+6. [TCC 在项目中的实际应用以及可能出现的问题](https://github.com/MikasaLevi/my_data_rebuild/issues/24)
+
 ### 2. 高并发
 
 ### 3. 技术风险
