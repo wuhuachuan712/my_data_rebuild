@@ -93,6 +93,7 @@
 2. [研发质量：如何做一个项目的方法论](https://github.com/MikasaLevi/my_data_rebuild/issues/29)
 3. [研发质量：如何做一个全站性质项目的方法论](https://github.com/MikasaLevi/my_data_rebuild/issues/30)
 4. [研发质量：研发质量体系思考](https://github.com/MikasaLevi/my_data_rebuild/issues/31)
+5. [研发质量：团队质量意识的push](https://github.com/MikasaLevi/my_data_rebuild/issues/33)
 5. [研发质量：蚂蚁金服(支付宝)-账务团队个人bug总结](https://github.com/MikasaLevi/my_data_rebuild/issues/32)
 
 # 三、扩展视野
