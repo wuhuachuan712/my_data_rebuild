@@ -99,12 +99,18 @@
 
 ### 4. SRE
 
+1. [K8S(一)：基础概念](https://github.com/MikasaLevi/my_data_rebuild/issues/54)
+2. [K8S(二)：实际使用-部署](https://github.com/MikasaLevi/my_data_rebuild/issues/55)
+3. [CICD 流程：GitLab->ArgoCD->K8S 搭建(一)](https://github.com/MikasaLevi/my_data_rebuild/issues/56)
+
 ### 5. 敏捷实践
 
 1. [谈谈对敏捷开发的看法](https://github.com/MikasaLevi/my_data_rebuild/issues/36)
 2. [从第一个敏捷项目后再看敏捷实践的一些坑](https://github.com/MikasaLevi/my_data_rebuild/issues/37)
 
 ### 6. 开源框架
+
+1. [Airflow（一）： 基础概念](https://github.com/MikasaLevi/my_data_rebuild/issues/57)
 
 ### 7. 研发流程与质量保证
 
