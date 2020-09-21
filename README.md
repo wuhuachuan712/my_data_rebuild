@@ -4,7 +4,8 @@
 
 ### 2. 数据结构与算法
 
-1. [KMP算法](https://github.com/MikasaLevi/my_data_rebuild/issues/5)
+1. [动态规划问题](https://github.com/MikasaLevi/my_data_rebuild/issues/25)
+2. [KMP算法](https://github.com/MikasaLevi/my_data_rebuild/issues/5)
 
 ### 3. 网络
 
@@ -54,6 +55,8 @@
 7. [Paxos：问题背景](https://github.com/MikasaLevi/my_data_rebuild/issues/16)
 8. [Paxos：算法机制-choosing a value](https://github.com/MikasaLevi/my_data_rebuild/issues/17)
 9. [Paxos：prepare&accept请求调用情况分析](https://github.com/MikasaLevi/my_data_rebuild/issues/18)
+10. [Sagas论文翻译](https://github.com/MikasaLevi/my_data_rebuild/issues/26)
+11. [Saga 论文总结](https://github.com/MikasaLevi/my_data_rebuild/issues/27)
 
 #### 1.2 实际应用的总结
 
