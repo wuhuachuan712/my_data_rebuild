@@ -87,9 +87,13 @@
 
 #### 3.2 弹性
 
+1. [单元化部署](https://github.com/MikasaLevi/my_data_rebuild/issues/53)
+
 #### 3.3 容灾
 
 #### 3.4 预案
+
+1. [预案与限流（偏组织层面）](https://github.com/MikasaLevi/my_data_rebuild/issues/52)
 
 #### 3.5 限流
 
