@@ -15,6 +15,7 @@
 ### 6. 重构与设计模式
 
 1. [策略模式](https://github.com/MikasaLevi/my_data_rebuild/issues/8)
+2. [装饰器模式](https://github.com/MikasaLevi/my_data_rebuild/issues/9)
 
 ### 7. 编程语言(Java)
 
