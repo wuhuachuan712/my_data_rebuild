@@ -111,6 +111,9 @@
 ### 6. 开源框架
 
 1. [Airflow（一）： 基础概念](https://github.com/MikasaLevi/my_data_rebuild/issues/57)
+2. [契约测试Pact:从理论到落地coding(一)：理论部分](https://github.com/MikasaLevi/my_data_rebuild/issues/58)
+3. [契约测试Pact:从理论到落地coding(二)：Consumer 端落地 coding](https://github.com/MikasaLevi/my_data_rebuild/issues/59)
+4. [契约测试Pact:从理论到落地coding(三)：不同参数怎么返回不同的响应](https://github.com/MikasaLevi/my_data_rebuild/issues/60)
 
 ### 7. 研发流程与质量保证
 
