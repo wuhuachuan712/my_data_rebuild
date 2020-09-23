@@ -28,8 +28,9 @@
 
 #### 7.4 Java 内存模型与垃圾回收
 
-1. [Java垃圾回收1：垃圾的判断&&基本的收集算法和垃圾回收器](https://github.com/MikasaLevi/my_data_rebuild/issues/6)
-2. [Java垃圾回收2：G1 && Shenandoah && ZGC 垃圾收集器](https://github.com/MikasaLevi/my_data_rebuild/issues/7)
+1. [Java 内存区域结构](https://github.com/MikasaLevi/my_data_rebuild/issues/61)
+2. [Java垃圾回收1：垃圾的判断&&基本的收集算法和垃圾回收器](https://github.com/MikasaLevi/my_data_rebuild/issues/6)
+3. [Java垃圾回收2：G1 && Shenandoah && ZGC 垃圾收集器](https://github.com/MikasaLevi/my_data_rebuild/issues/7)
 
 ### 8. 数据库
 
