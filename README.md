@@ -7,9 +7,11 @@
 1. [动态规划问题](https://github.com/MikasaLevi/my_data_rebuild/issues/25)
 2. [KMP算法](https://github.com/MikasaLevi/my_data_rebuild/issues/5)
 
-### 3. 网络
+### 3. 计算机网络
 
 ### 4. 操作系统
+
+1. [Java 标记清除法->操作系统主存管理](https://github.com/MikasaLevi/my_data_rebuild/issues/62)
 
 ### 5. System Design
 
@@ -31,7 +33,6 @@
 1. [Java 内存区域结构](https://github.com/MikasaLevi/my_data_rebuild/issues/61)
 2. [Java垃圾回收1：垃圾的判断&&基本的收集算法和垃圾回收器](https://github.com/MikasaLevi/my_data_rebuild/issues/6)
 3. [Java垃圾回收2：G1 && Shenandoah && ZGC 垃圾收集器](https://github.com/MikasaLevi/my_data_rebuild/issues/7)
-4. [标记-清除法引申的一些联想1](https://github.com/MikasaLevi/my_data_rebuild/issues/62)
 
 ### 8. 数据库
 
