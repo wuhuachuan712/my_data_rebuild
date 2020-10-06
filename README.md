@@ -1,3 +1,5 @@
+个人知识图谱
+
 # 一、基础知识
 
 ### 1. 英语
@@ -9,7 +11,9 @@
 
 ### 3. 计算机网络
 
-1. [物理层一般讨论什么问题](https://github.com/MikasaLevi/my_data_rebuild/issues/66)
+1. [各种xx网的定义](https://github.com/MikasaLevi/my_data_rebuild/issues/67)
+2. [物理层一般讨论什么问题](https://github.com/MikasaLevi/my_data_rebuild/issues/66)
+
 
 ### 4. 操作系统
 
