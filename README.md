@@ -14,6 +14,7 @@
 1. [各种xx网的定义](https://github.com/MikasaLevi/my_data_rebuild/issues/67)
 2. [物理层一般讨论什么问题](https://github.com/MikasaLevi/my_data_rebuild/issues/66)
 3. [数据链路层](https://github.com/MikasaLevi/my_data_rebuild/issues/68)
+4. [网络层：消息传输的关键-IP地址和路由器寻址问题](https://github.com/MikasaLevi/my_data_rebuild/issues/69)
 
 
 ### 4. 操作系统
