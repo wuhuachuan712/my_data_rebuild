@@ -1,5 +1,11 @@
 个人知识图谱
 
+# 一些反思
+
+这里主要参考了 [左耳度耗子](https://coolshell.cn/) 和 [田渊栋](https://www.zhihu.com/people/tian-yuan-dong/posts) 大神的一些反思思考。一段时间反思一下自己的心态，觉得挺好的。未来回过头来看也别有一番风味，像我现在看了2年前自己离开蚂蚁金服支付宝的心态，挺搞笑的。 
+
+1. [知乎的匿名回答：你为什么从阿里巴巴集团离职？](https://github.com/MikasaLevi/my_data_rebuild/issues/70)
+
 # 一、基础知识
 
 ### 1. 英语
