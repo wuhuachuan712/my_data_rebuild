@@ -42,8 +42,9 @@
 
 #### 7.2 Java 多线程
 
-1. [java.util.concurrent 包的研究1：整体结构](https://github.com/MikasaLevi/my_data_rebuild/issues/65)
-2. [CAS && atomic 原子类包 && CAS 相关扩展](https://github.com/MikasaLevi/my_data_rebuild/issues/73)
+1. [并发问题的来源(Java内存模型与指令)](https://github.com/MikasaLevi/my_data_rebuild/issues/74)
+2. [java.util.concurrent 包的研究1：整体结构](https://github.com/MikasaLevi/my_data_rebuild/issues/65)
+3. [CAS && atomic 原子类包 && CAS 相关扩展](https://github.com/MikasaLevi/my_data_rebuild/issues/73)
 
 #### 7.3 Java IO
 
