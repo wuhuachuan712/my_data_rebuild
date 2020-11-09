@@ -1,9 +1,5 @@
 个人知识图谱
 
-# 一些反思
-
-1. [知乎的匿名回答：你为什么从阿里巴巴集团离职？](https://github.com/MikasaLevi/my_data_rebuild/issues/70)
-
 # 一、基础知识
 
 ### 1. 英语
