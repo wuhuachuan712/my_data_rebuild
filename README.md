@@ -1,15 +1,6 @@
-个人知识图谱
+# 基础知识
 
-# 一、基础知识
-
-### 1. 英语
-
-### 2. 数据结构与算法
-
-1. [动态规划问题](https://github.com/MikasaLevi/my_data_rebuild/issues/25)
-2. [KMP算法](https://github.com/MikasaLevi/my_data_rebuild/issues/5)
-
-### 3. 计算机网络
+### 计算机网络
 
 1. [各种xx网的定义](https://github.com/MikasaLevi/my_data_rebuild/issues/67)
 2. [物理层一般讨论什么问题](https://github.com/MikasaLevi/my_data_rebuild/issues/66)
@@ -18,47 +9,44 @@
 5. [运输层：TCP 的三大特点：可靠传输/流量控制/拥塞控制](https://github.com/MikasaLevi/my_data_rebuild/issues/71)
 6. [运输层：TCP 连接建立与释放：三次/四次握手](https://github.com/MikasaLevi/my_data_rebuild/issues/72)
 
-
-### 4. 操作系统
+### 操作系统
 
 1. [主存](https://github.com/MikasaLevi/my_data_rebuild/issues/62)
 2. [操作系统的进程与线程](https://github.com/MikasaLevi/my_data_rebuild/issues/63)
 3. [MySQL 的死锁和操作系统的死锁](https://github.com/MikasaLevi/my_data_rebuild/issues/64)
 
-### 5. System Design
+### 编程语言(Java)
 
-### 6. 重构与设计模式
+#### Java 集合
 
-1. [策略模式](https://github.com/MikasaLevi/my_data_rebuild/issues/8)
-2. [装饰器模式](https://github.com/MikasaLevi/my_data_rebuild/issues/9)
-
-### 7. 编程语言(Java)
-
-#### 7.1 Java 集合
-
-#### 7.2 Java 多线程
+#### Java 多线程
 
 1. [并发问题的来源(Java内存模型与指令)](https://github.com/MikasaLevi/my_data_rebuild/issues/74)
-2. [java.util.concurrent 包的研究1：整体结构](https://github.com/MikasaLevi/my_data_rebuild/issues/65)
+2. [java.util.concurrent 包的研究1：整体结构](https://github.com/MikasaLevi/my_data_rebuild/issues/65) 
 3. [CAS && atomic 原子类包 && CAS 相关扩展](https://github.com/MikasaLevi/my_data_rebuild/issues/73)
 4. [Java Thread 类解析](https://github.com/MikasaLevi/my_data_rebuild/issues/75)
 
-#### 7.3 Java IO
+#### Java IO
 
-#### 7.4 Java 内存模型与垃圾回收
+#### Java 内存模型与垃圾回收
 
 1. [Java 内存区域结构](https://github.com/MikasaLevi/my_data_rebuild/issues/61)
 2. [Java垃圾回收1：垃圾的判断&&基本的收集算法和垃圾回收器](https://github.com/MikasaLevi/my_data_rebuild/issues/6)
 3. [Java垃圾回收2：G1 && Shenandoah && ZGC 垃圾收集器](https://github.com/MikasaLevi/my_data_rebuild/issues/7)
 
-### 8. 数据库
+### 数据库
 
 1. [MySQL：锁相关概念：共享锁,排他锁以及意向锁,间隙锁,临键锁,插入意向锁](https://github.com/MikasaLevi/my_data_rebuild/issues/3)
 2. [MySQL：select for update 语句会如何执行锁操作](https://github.com/MikasaLevi/my_data_rebuild/issues/4)
 3. [MySQL：B+Tree 的学习与间隙锁为什么锁上下区间](https://github.com/MikasaLevi/my_data_rebuild/issues/2)
 4. [MySQL：一些命令的使用](https://github.com/MikasaLevi/my_data_rebuild/issues/1)
 
-# 二、大型软件经验
+# 项目经验
+
+### 重构与设计模式
+
+1. [策略模式](https://github.com/MikasaLevi/my_data_rebuild/issues/8)
+2. [装饰器模式](https://github.com/MikasaLevi/my_data_rebuild/issues/9)
 
 ### 整体全局的思考
 
