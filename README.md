@@ -1,5 +1,11 @@
 # 基础知识
 
+### 英语
+
+### 算法与数据结构
+
+参考: [repo:DS-Algorithm](https://github.com/wuhuachuan712/DS-Algorithm)
+
 ### 计算机网络
 
 1. [各种xx网的定义](https://github.com/MikasaLevi/my_data_rebuild/issues/67)
@@ -48,11 +54,18 @@
 1. [策略模式](https://github.com/MikasaLevi/my_data_rebuild/issues/8)
 2. [装饰器模式](https://github.com/MikasaLevi/my_data_rebuild/issues/9)
 
-### 整体全局的思考
+### owner意识 
 
-### 1. 分布式
+1. [项目管理：项目 owner 的一些职责](https://github.com/MikasaLevi/my_data_rebuild/issues/34)
+2. [作为一个项目owner应该问自己的几个问题](https://github.com/MikasaLevi/my_data_rebuild/issues/35)
+3. [如何保障一个系统的高可用?](https://github.com/wuhuachuan712/my_data_rebuild/issues/76)
+4. 如何保障一个架构域的高可用?
+5. 如何保障一次上线的稳定性?
+6. 如何保障一次活动的高可用稳定性?
 
-#### 1.1 一些理论部分的学习
+### 分布式
+
+#### 一些理论部分的学习
 
 1. [《Time, Clocks, and the Ordering of Events in a Distributed System》](https://github.com/MikasaLevi/my_data_rebuild/issues/14)
 2. [《Implementing Fault-Tolerant Services Using the State Machine Approach: A Tutorial》](https://github.com/MikasaLevi/my_data_rebuild/issues/15)
@@ -66,7 +79,7 @@
 10. [Sagas论文翻译](https://github.com/MikasaLevi/my_data_rebuild/issues/26)
 11. [Saga 论文总结](https://github.com/MikasaLevi/my_data_rebuild/issues/27)
 
-#### 1.2 实际应用的总结
+#### 实际应用的总结
 
 1. [分布式基础理论（ACID/BASE/CAP）](https://github.com/MikasaLevi/my_data_rebuild/issues/19)
 2. [A系统->B系统的分布式一致性分析](https://github.com/MikasaLevi/my_data_rebuild/issues/20)
@@ -75,7 +88,7 @@
 5. [TCC 模型下的三大问题：空回滚/悬挂/幂等](https://github.com/MikasaLevi/my_data_rebuild/issues/23)
 6. [TCC 在项目中的实际应用以及可能出现的问题](https://github.com/MikasaLevi/my_data_rebuild/issues/24)
 
-### 2. 高并发
+### 高并发
 
 1. [并发问题：并发问题的一些处理方案1](https://github.com/MikasaLevi/my_data_rebuild/issues/43)
 2. [并发问题：并发问题的一些处理方案2](https://github.com/MikasaLevi/my_data_rebuild/issues/44)
@@ -89,41 +102,41 @@
 10. 并发问题：记录持久化7-异步化强制缓冲
 11. 并发问题：记录持久化8-吞吐量比缓冲更大的处理方式
 
-### 3. 技术风险
+### 技术风险
 
-#### 3.1 容量
+#### 容量
 
-#### 3.2 弹性
+#### 弹性
 
 1. [单元化部署](https://github.com/MikasaLevi/my_data_rebuild/issues/53)
 
-#### 3.3 容灾
+#### 容灾
 
-#### 3.4 预案
+#### 预案
 
 1. [预案与限流（偏组织层面）](https://github.com/MikasaLevi/my_data_rebuild/issues/52)
 
-#### 3.5 限流
+#### 限流
 
-### 4. SRE
+### SRE
 
 1. [K8S(一)：基础概念](https://github.com/MikasaLevi/my_data_rebuild/issues/54)
 2. [K8S(二)：实际使用-部署](https://github.com/MikasaLevi/my_data_rebuild/issues/55)
 3. [CICD 流程：GitLab->ArgoCD->K8S 搭建(一)](https://github.com/MikasaLevi/my_data_rebuild/issues/56)
 
-### 5. 敏捷实践
+### 敏捷实践
 
 1. [谈谈对敏捷开发的看法](https://github.com/MikasaLevi/my_data_rebuild/issues/36)
 2. [从第一个敏捷项目后再看敏捷实践的一些坑](https://github.com/MikasaLevi/my_data_rebuild/issues/37)
 
-### 6. 开源框架
+### 开源框架
 
 1. [Airflow（一）： 基础概念](https://github.com/MikasaLevi/my_data_rebuild/issues/57)
 2. [契约测试Pact:从理论到落地coding(一)：理论部分](https://github.com/MikasaLevi/my_data_rebuild/issues/58)
 3. [契约测试Pact:从理论到落地coding(二)：Consumer 端落地 coding](https://github.com/MikasaLevi/my_data_rebuild/issues/59)
 4. [契约测试Pact:从理论到落地coding(三)：不同参数怎么返回不同的响应](https://github.com/MikasaLevi/my_data_rebuild/issues/60)
 
-### 7. 研发流程与质量保证
+### 研发流程与质量保证
 
 1. [研发质量：如何做一个需求的方法论](https://github.com/MikasaLevi/my_data_rebuild/issues/28)
 2. [研发质量：如何做一个项目的方法论](https://github.com/MikasaLevi/my_data_rebuild/issues/29)
@@ -132,14 +145,9 @@
 5. [研发质量：团队质量意识的push](https://github.com/MikasaLevi/my_data_rebuild/issues/33)
 5. [研发质量：蚂蚁金服(支付宝)-账务团队个人bug总结](https://github.com/MikasaLevi/my_data_rebuild/issues/32)
 
-### 8. 项目管理
+# 扩展视野
 
-1. [项目管理：项目 owner 的一些职责](https://github.com/MikasaLevi/my_data_rebuild/issues/34)
-2. [作为一个项目owner应该问自己的几个问题](https://github.com/MikasaLevi/my_data_rebuild/issues/35)
-
-# 三、扩展视野
-
-### 1. 区块链
+### 区块链
 
 1. [《比特币: 一个点对点的电子现金系统》- 摘要](https://github.com/MikasaLevi/my_data_rebuild/issues/38)
 2. [《比特币: 一个点对点的电子现金系统》- 1引言](https://github.com/MikasaLevi/my_data_rebuild/issues/39)
@@ -147,9 +155,8 @@
 4. [《比特币: 一个点对点的电子现金系统》- 3时间戳服务器](https://github.com/MikasaLevi/my_data_rebuild/issues/41)
 5. [《比特币: 一个点对点的电子现金系统》- 4工作量证明](https://github.com/MikasaLevi/my_data_rebuild/issues/42)
 
-### 2. 5G
+### 5G
 
-### 3. AI
+### AI
 
-### 4. 个人项目
-
+### 个人项目
