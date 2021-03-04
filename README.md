@@ -135,6 +135,9 @@
 2. [契约测试Pact:从理论到落地coding(一)：理论部分](https://github.com/MikasaLevi/my_data_rebuild/issues/58)
 3. [契约测试Pact:从理论到落地coding(二)：Consumer 端落地 coding](https://github.com/MikasaLevi/my_data_rebuild/issues/59)
 4. [契约测试Pact:从理论到落地coding(三)：不同参数怎么返回不同的响应](https://github.com/MikasaLevi/my_data_rebuild/issues/60)
+5. [MongoDB高手课程笔记1：入门](https://github.com/wuhuachuan712/my_data_rebuild/issues/77)
+6. [MongoDB高手课程笔记2：模型设计与事务](https://github.com/wuhuachuan712/my_data_rebuild/issues/78)
+7. [MongoDB高手课程笔记3：分片集群概念和思路](https://github.com/wuhuachuan712/my_data_rebuild/issues/79)
 
 ### 研发流程与质量保证
 
