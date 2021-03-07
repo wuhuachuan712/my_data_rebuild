@@ -49,12 +49,7 @@
 
 # 项目经验
 
-### 重构与设计模式
-
-1. [策略模式](https://github.com/MikasaLevi/my_data_rebuild/issues/8)
-2. [装饰器模式](https://github.com/MikasaLevi/my_data_rebuild/issues/9)
-
-### owner意识 
+### 关于 owner, 高可用稳定性的一些想法 
 
 1. [项目管理：项目 owner 的一些职责](https://github.com/MikasaLevi/my_data_rebuild/issues/34)
 2. [作为一个项目owner应该问自己的几个问题](https://github.com/MikasaLevi/my_data_rebuild/issues/35)
@@ -62,6 +57,11 @@
 4. 如何保障一个架构域的高可用?
 5. 如何保障一次上线的稳定性?
 6. 如何保障一次活动的高可用稳定性?
+
+### 重构与设计模式
+
+1. [策略模式](https://github.com/MikasaLevi/my_data_rebuild/issues/8)
+2. [装饰器模式](https://github.com/MikasaLevi/my_data_rebuild/issues/9)
 
 ### 分布式
 
