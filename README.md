@@ -54,7 +54,7 @@
 
 ### 关于 owner, 高可用稳定性的一些想法 
 
-1. [项目管理：项目 owner 的一些职责](https://github.com/MikasaLevi/my_data_rebuild/issues/34)
+1. [owner 的职责](https://github.com/MikasaLevi/my_data_rebuild/issues/34)
 2. [作为一个项目owner应该问自己的几个问题](https://github.com/MikasaLevi/my_data_rebuild/issues/35)
 3. [如何保障一个系统的高可用?](https://github.com/wuhuachuan712/my_data_rebuild/issues/76)
 4. 如何保障一个架构域的高可用?
@@ -120,6 +120,8 @@
 1. [预案与限流（偏组织层面）](https://github.com/MikasaLevi/my_data_rebuild/issues/52)
 
 #### 限流
+
+1. [Guava RateLimiter](https://github.com/wuhuachuan712/my_data_rebuild/issues/80)
 
 ### SRE
 
