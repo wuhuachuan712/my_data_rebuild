@@ -49,6 +49,7 @@
 5. [MongoDB高手课程笔记1：入门](https://github.com/wuhuachuan712/my_data_rebuild/issues/77)
 6. [MongoDB高手课程笔记2：模型设计与事务](https://github.com/wuhuachuan712/my_data_rebuild/issues/78)
 7. [MongoDB高手课程笔记3：分片集群概念和思路](https://github.com/wuhuachuan712/my_data_rebuild/issues/79)
+8. [为什么 Redis 快](https://github.com/wuhuachuan712/my_data_rebuild/issues/81)
 
 # 项目经验
 
