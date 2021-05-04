@@ -68,8 +68,13 @@
 
 ### 重构与设计模式
 
-1. [策略模式](https://github.com/MikasaLevi/my_data_rebuild/issues/8)
-2. [装饰器模式](https://github.com/MikasaLevi/my_data_rebuild/issues/9)
+1. [DIP：依赖倒置原则的一些理解](https://github.com/wuhuachuan712/my_data_rebuild/issues/83)
+2. [单一职责原则SRP](https://github.com/wuhuachuan712/my_data_rebuild/issues/84)
+3. [OCP开闭原则的项目使用反思](https://github.com/wuhuachuan712/my_data_rebuild/issues/85)
+4. [《编程的逻辑》读后感](https://github.com/wuhuachuan712/my_data_rebuild/issues/86)
+5. [策略模式](https://github.com/MikasaLevi/my_data_rebuild/issues/8)
+6. [装饰器模式](https://github.com/MikasaLevi/my_data_rebuild/issues/9)
+
 
 ### 分布式
 
