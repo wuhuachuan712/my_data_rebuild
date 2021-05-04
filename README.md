@@ -133,6 +133,10 @@
 
 1. [Guava RateLimiter](https://github.com/wuhuachuan712/my_data_rebuild/issues/80)
 
+#### 熔断
+
+#### 缓存
+
 ### SRE
 
 1. [K8S(一)：基础概念](https://github.com/MikasaLevi/my_data_rebuild/issues/54)
