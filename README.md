@@ -57,7 +57,7 @@
 
 # 项目经验
 
-### 关于 owner, 高可用稳定性的一些想法 
+### owner 意识 
 
 1. [owner 的职责](https://github.com/MikasaLevi/my_data_rebuild/issues/34)
 2. [作为一个项目owner应该问自己的几个问题](https://github.com/MikasaLevi/my_data_rebuild/issues/35)
