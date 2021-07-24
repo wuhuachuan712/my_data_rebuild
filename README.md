@@ -51,10 +51,11 @@
 3. [MySQL：B+Tree 的学习与间隙锁为什么锁上下区间](https://github.com/MikasaLevi/my_data_rebuild/issues/2)
 4. [MySQL：一些命令的使用](https://github.com/MikasaLevi/my_data_rebuild/issues/1)
 5. [《MySQL实战45讲》笔记-基础篇8讲](https://github.com/wuhuachuan712/my_data_rebuild/issues/87)
-6. [MongoDB高手课程笔记1：入门](https://github.com/wuhuachuan712/my_data_rebuild/issues/77)
-7. [MongoDB高手课程笔记2：模型设计与事务](https://github.com/wuhuachuan712/my_data_rebuild/issues/78)
-8. [MongoDB高手课程笔记3：分片集群概念和思路](https://github.com/wuhuachuan712/my_data_rebuild/issues/79)
-9. [为什么 Redis 快](https://github.com/wuhuachuan712/my_data_rebuild/issues/81)
+6. [《MySQL实战45讲》笔记-实战篇09-22讲](https://github.com/wuhuachuan712/my_data_rebuild/issues/88)
+7. [MongoDB高手课程笔记1：入门](https://github.com/wuhuachuan712/my_data_rebuild/issues/77)
+8. [MongoDB高手课程笔记2：模型设计与事务](https://github.com/wuhuachuan712/my_data_rebuild/issues/78)
+9. [MongoDB高手课程笔记3：分片集群概念和思路](https://github.com/wuhuachuan712/my_data_rebuild/issues/79)
+10. [为什么 Redis 快](https://github.com/wuhuachuan712/my_data_rebuild/issues/81)
 
 # 项目经验
 
