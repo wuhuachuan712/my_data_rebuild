@@ -23,6 +23,20 @@
 2. [操作系统的进程与线程](https://github.com/MikasaLevi/my_data_rebuild/issues/63)
 3. [MySQL 的死锁和操作系统的死锁](https://github.com/MikasaLevi/my_data_rebuild/issues/64)
 
+### 数据库
+
+1. [MySQL：锁相关概念：共享锁,排他锁以及意向锁,间隙锁,临键锁,插入意向锁](https://github.com/MikasaLevi/my_data_rebuild/issues/3)
+2. [MySQL：select for update 语句会如何执行锁操作](https://github.com/MikasaLevi/my_data_rebuild/issues/4)
+3. [MySQL：B+Tree 的学习与间隙锁为什么锁上下区间](https://github.com/MikasaLevi/my_data_rebuild/issues/2)
+4. [MySQL：一些命令的使用](https://github.com/MikasaLevi/my_data_rebuild/issues/1)
+5. [极客时间-《MySQL实战45讲》学习笔记-基础篇8讲](https://github.com/wuhuachuan712/my_data_rebuild/issues/87)
+6. [极客时间-《MySQL实战45讲》学习笔记-实战篇09-22讲](https://github.com/wuhuachuan712/my_data_rebuild/issues/88)
+7. [极客时间-《MySQL实战45讲》学习笔记-实战篇23-28讲（高可用篇）](https://github.com/wuhuachuan712/my_data_rebuild/issues/89)
+8. [极客时间-《MongoDB高手课》学习笔记1：概念与复制集](https://github.com/wuhuachuan712/my_data_rebuild/issues/77)
+9. [极客时间-《MongoDB高手课》学习笔记2：模型设计与事务](https://github.com/wuhuachuan712/my_data_rebuild/issues/78)
+10. [极客时间-《MongoDB高手课》学习笔记3：分片集群概念和思路](https://github.com/wuhuachuan712/my_data_rebuild/issues/79)
+11. [为什么 Redis 快](https://github.com/wuhuachuan712/my_data_rebuild/issues/81)
+
 ### 编程语言(Java)
 
 #### Java 集合
@@ -47,20 +61,6 @@
 #### Java 语法
 
 1. [Java Stream 流相关](https://github.com/wuhuachuan712/my_data_rebuild/issues/82)
-
-### 数据库
-
-1. [MySQL：锁相关概念：共享锁,排他锁以及意向锁,间隙锁,临键锁,插入意向锁](https://github.com/MikasaLevi/my_data_rebuild/issues/3)
-2. [MySQL：select for update 语句会如何执行锁操作](https://github.com/MikasaLevi/my_data_rebuild/issues/4)
-3. [MySQL：B+Tree 的学习与间隙锁为什么锁上下区间](https://github.com/MikasaLevi/my_data_rebuild/issues/2)
-4. [MySQL：一些命令的使用](https://github.com/MikasaLevi/my_data_rebuild/issues/1)
-5. [《MySQL实战45讲》笔记-基础篇8讲](https://github.com/wuhuachuan712/my_data_rebuild/issues/87)
-6. [《MySQL实战45讲》笔记-实战篇09-22讲](https://github.com/wuhuachuan712/my_data_rebuild/issues/88)
-7. [《MySQL实战45讲》笔记-实战篇23-28讲（高可用篇）](https://github.com/wuhuachuan712/my_data_rebuild/issues/89)
-8. [MongoDB高手课程笔记1：入门](https://github.com/wuhuachuan712/my_data_rebuild/issues/77)
-9. [MongoDB高手课程笔记2：模型设计与事务](https://github.com/wuhuachuan712/my_data_rebuild/issues/78)
-10. [MongoDB高手课程笔记3：分片集群概念和思路](https://github.com/wuhuachuan712/my_data_rebuild/issues/79)
-11. [为什么 Redis 快](https://github.com/wuhuachuan712/my_data_rebuild/issues/81)
 
 # 项目经验
 
