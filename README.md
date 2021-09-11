@@ -94,8 +94,8 @@
 
 #### 一些理论部分的学习
 
-1. [《Time, Clocks, and the Ordering of Events in a Distributed System》](https://github.com/MikasaLevi/my_data_rebuild/issues/14)
-2. [《Implementing Fault-Tolerant Services Using the State Machine Approach: A Tutorial》](https://github.com/MikasaLevi/my_data_rebuild/issues/15)
+1. [《Time, Clocks, and the Ordering of Events in a Distributed System》论文](https://github.com/MikasaLevi/my_data_rebuild/issues/14)
+2. [《Implementing Fault-Tolerant Services Using the State Machine Approach: A Tutorial》论文](https://github.com/MikasaLevi/my_data_rebuild/issues/15)
 3. [Raft1：概念与算法核心](https://github.com/MikasaLevi/my_data_rebuild/issues/10)
 4. [Raft2：Leader election 领导者选举](https://github.com/MikasaLevi/my_data_rebuild/issues/11)
 5. [Raft3：Log Replication 日志复制](https://github.com/MikasaLevi/my_data_rebuild/issues/12)
@@ -103,7 +103,7 @@
 7. [Paxos：问题背景](https://github.com/MikasaLevi/my_data_rebuild/issues/16)
 8. [Paxos：算法机制-choosing a value](https://github.com/MikasaLevi/my_data_rebuild/issues/17)
 9. [Paxos：prepare&accept请求调用情况分析](https://github.com/MikasaLevi/my_data_rebuild/issues/18)
-10. [Sagas论文翻译](https://github.com/MikasaLevi/my_data_rebuild/issues/26)
+10. [Sagas 论文翻译](https://github.com/MikasaLevi/my_data_rebuild/issues/26)
 11. [Saga 论文总结](https://github.com/MikasaLevi/my_data_rebuild/issues/27)
 
 #### 实际应用的总结
