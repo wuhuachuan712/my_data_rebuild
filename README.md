@@ -90,7 +90,7 @@
 5. [策略模式](https://github.com/MikasaLevi/my_data_rebuild/issues/8)
 6. [装饰器模式](https://github.com/MikasaLevi/my_data_rebuild/issues/9)
 
-### 2.3 分布式
+### 2.3 分布式事务
 
 #### 一些理论部分的学习
 
@@ -100,13 +100,14 @@
 4. [《Life beyond Distributed Transactions》论文](https://github.com/wuhuachuan712/my_data_rebuild/issues/94)
 5. [《Sagas》论文翻译](https://github.com/MikasaLevi/my_data_rebuild/issues/26)
 6. [《Sagas》论文总结](https://github.com/MikasaLevi/my_data_rebuild/issues/27)
-7. [Raft1：概念与算法核心](https://github.com/MikasaLevi/my_data_rebuild/issues/10)
-8. [Raft2：Leader election 领导者选举](https://github.com/MikasaLevi/my_data_rebuild/issues/11)
-9. [Raft3：Log Replication 日志复制](https://github.com/MikasaLevi/my_data_rebuild/issues/12)
-10. [Raft4：Safety 两种特殊场景](https://github.com/MikasaLevi/my_data_rebuild/issues/13)
-11. [Paxos1：问题背景](https://github.com/MikasaLevi/my_data_rebuild/issues/16)
-12. [Paxos2：算法机制-choosing a value](https://github.com/MikasaLevi/my_data_rebuild/issues/17)
-13. [Paxos3：prepare&accept请求调用情况分析](https://github.com/MikasaLevi/my_data_rebuild/issues/18)
+7. [X/OPEN组织，DTP模型，XA规范，TX规范](https://github.com/wuhuachuan712/my_data_rebuild/issues/95)
+8. [Raft1：概念与算法核心](https://github.com/MikasaLevi/my_data_rebuild/issues/10)
+9. [Raft2：Leader election 领导者选举](https://github.com/MikasaLevi/my_data_rebuild/issues/11)
+10. [Raft3：Log Replication 日志复制](https://github.com/MikasaLevi/my_data_rebuild/issues/12)
+11. [Raft4：Safety 两种特殊场景](https://github.com/MikasaLevi/my_data_rebuild/issues/13)
+12. [Paxos1：问题背景](https://github.com/MikasaLevi/my_data_rebuild/issues/16)
+13. [Paxos2：算法机制-choosing a value](https://github.com/MikasaLevi/my_data_rebuild/issues/17)
+14. [Paxos3：prepare&accept请求调用情况分析](https://github.com/MikasaLevi/my_data_rebuild/issues/18)
 
 #### 实际应用的总结
 
