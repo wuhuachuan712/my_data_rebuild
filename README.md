@@ -101,13 +101,14 @@
 5. [《Sagas》论文翻译](https://github.com/MikasaLevi/my_data_rebuild/issues/26)
 6. [《Sagas》论文总结](https://github.com/MikasaLevi/my_data_rebuild/issues/27)
 7. [X/OPEN组织，DTP模型，XA规范，TX规范](https://github.com/wuhuachuan712/my_data_rebuild/issues/95)
-8. [Raft1：概念与算法核心](https://github.com/MikasaLevi/my_data_rebuild/issues/10)
-9. [Raft2：Leader election 领导者选举](https://github.com/MikasaLevi/my_data_rebuild/issues/11)
-10. [Raft3：Log Replication 日志复制](https://github.com/MikasaLevi/my_data_rebuild/issues/12)
-11. [Raft4：Safety 两种特殊场景](https://github.com/MikasaLevi/my_data_rebuild/issues/13)
-12. [Paxos1：问题背景](https://github.com/MikasaLevi/my_data_rebuild/issues/16)
-13. [Paxos2：算法机制-choosing a value](https://github.com/MikasaLevi/my_data_rebuild/issues/17)
-14. [Paxos3：prepare&accept请求调用情况分析](https://github.com/MikasaLevi/my_data_rebuild/issues/18)
+8. [2PC，3PC](https://github.com/wuhuachuan712/my_data_rebuild/issues/96)
+9. [Raft1：概念与算法核心](https://github.com/MikasaLevi/my_data_rebuild/issues/10)
+10. [Raft2：Leader election 领导者选举](https://github.com/MikasaLevi/my_data_rebuild/issues/11)
+11. [Raft3：Log Replication 日志复制](https://github.com/MikasaLevi/my_data_rebuild/issues/12)
+12. [Raft4：Safety 两种特殊场景](https://github.com/MikasaLevi/my_data_rebuild/issues/13)
+13. [Paxos1：问题背景](https://github.com/MikasaLevi/my_data_rebuild/issues/16)
+14. [Paxos2：算法机制-choosing a value](https://github.com/MikasaLevi/my_data_rebuild/issues/17)
+15. [Paxos3：prepare&accept请求调用情况分析](https://github.com/MikasaLevi/my_data_rebuild/issues/18)
 
 #### 实际应用的总结
 
