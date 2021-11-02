@@ -41,10 +41,6 @@
 2. [极客时间-《MongoDB高手课》学习笔记2：模型设计与事务](https://github.com/wuhuachuan712/my_data_rebuild/issues/78)
 3. [极客时间-《MongoDB高手课》学习笔记3：分片集群概念和思路](https://github.com/wuhuachuan712/my_data_rebuild/issues/79)
 
-#### Redis
-
-1. [为什么 Redis 快](https://github.com/wuhuachuan712/my_data_rebuild/issues/81)
-
 ### 1.6 编程语言(Java)
 
 #### Java 集合
@@ -154,6 +150,9 @@
 #### 熔断
 
 #### 缓存
+
+1. [Redis的数据结构和常用命令](https://github.com/wuhuachuan712/my_data_rebuild/issues/97)
+2. [为什么 Redis 快](https://github.com/wuhuachuan712/my_data_rebuild/issues/81)
 
 ### 2.6 SRE
 
