@@ -151,9 +151,9 @@
 
 #### 缓存
 
-1. [Redis的数据结构和常用命令](https://github.com/wuhuachuan712/my_data_rebuild/issues/97)
-2. [RDB持久化，AOF持久化](https://github.com/wuhuachuan712/my_data_rebuild/issues/98)
-3. [为什么 Redis 快](https://github.com/wuhuachuan712/my_data_rebuild/issues/81)
+1. [Redis 的数据结构和常用命令](https://github.com/wuhuachuan712/my_data_rebuild/issues/97)
+2. [Redis RDB持久化，AOF持久化](https://github.com/wuhuachuan712/my_data_rebuild/issues/98)
+3. [IO多路复用，Redis从单线程到多线程的模型](https://github.com/wuhuachuan712/my_data_rebuild/issues/81)
 
 ### 2.6 SRE
 
