@@ -21,8 +21,8 @@
 
 ### 1.4 操作系统
 
-1. [主存](https://github.com/MikasaLevi/my_data_rebuild/issues/62)
-2. [操作系统的进程与线程](https://github.com/MikasaLevi/my_data_rebuild/issues/63)
+1. [并发处理：进程线程](https://github.com/MikasaLevi/my_data_rebuild/issues/63)
+2. [主存管理](https://github.com/MikasaLevi/my_data_rebuild/issues/62)
 3. [MySQL 的死锁和操作系统的死锁](https://github.com/MikasaLevi/my_data_rebuild/issues/64)
 
 ### 1.5 数据库
