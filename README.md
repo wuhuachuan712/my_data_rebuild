@@ -41,10 +41,10 @@ P（Performance）高可用稳定性相关：
 L（Lock）锁相关：
 
 1. [MySQL 的几种锁](https://github.com/MikasaLevi/my_data_rebuild/issues/3)
+2. [普通索引,主键索引,隔离级别对加锁的影响](https://github.com/MikasaLevi/my_data_rebuild/issues/4)
 
 ---
 
-2. [MySQL：select for update 语句会如何执行锁操作](https://github.com/MikasaLevi/my_data_rebuild/issues/4)
 3. [MySQL：B+Tree 的学习与间隙锁为什么锁上下区间](https://github.com/MikasaLevi/my_data_rebuild/issues/2)
 4. [MySQL：一些命令的使用](https://github.com/MikasaLevi/my_data_rebuild/issues/1)
 5. [极客时间-《MySQL实战45讲》学习笔记-基础篇8讲](https://github.com/wuhuachuan712/my_data_rebuild/issues/87)
