@@ -29,6 +29,19 @@
 
 #### MySQL
 
+- [MySQL 架构和存储引擎](https://github.com/wuhuachuan712/my_data_rebuild/issues/101)
+
+Plait（辫子）。P（Performance）高可用稳定性相关；L（Lock）锁相关；A（Actual）实际使用；I（Index）索引；T（Transaction）事务
+
+P（Performance）高可用稳定性相关：
+
+1. [单机模式下可能丢数据的点](https://github.com/wuhuachuan712/my_data_rebuild/issues/102)
+2. [集群模式下可能丢数据的点](https://github.com/wuhuachuan712/my_data_rebuild/issues/103)
+3. [基于binlog的主备同步方式](https://github.com/wuhuachuan712/my_data_rebuild/issues/104)
+4. [1主1备部署实际测试](https://github.com/wuhuachuan712/my_data_rebuild/issues/105)
+
+---
+
 1. [MySQL：锁相关概念：共享锁,排他锁以及意向锁,间隙锁,临键锁,插入意向锁](https://github.com/MikasaLevi/my_data_rebuild/issues/3)
 2. [MySQL：select for update 语句会如何执行锁操作](https://github.com/MikasaLevi/my_data_rebuild/issues/4)
 3. [MySQL：B+Tree 的学习与间隙锁为什么锁上下区间](https://github.com/MikasaLevi/my_data_rebuild/issues/2)
