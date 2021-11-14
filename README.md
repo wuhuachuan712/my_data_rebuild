@@ -42,6 +42,7 @@ L（Lock）锁相关：
 
 1. [MySQL 的几种锁](https://github.com/MikasaLevi/my_data_rebuild/issues/3)
 2. [select 语句的加锁分析](https://github.com/MikasaLevi/my_data_rebuild/issues/4)
+3. [update,delete,insert 语句的加锁](https://github.com/wuhuachuan712/my_data_rebuild/issues/106)
 
 ---
 
