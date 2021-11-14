@@ -43,11 +43,17 @@ L（Lock）锁相关：
 1. [MySQL 的几种锁](https://github.com/MikasaLevi/my_data_rebuild/issues/3)
 2. [select 语句的加锁分析](https://github.com/MikasaLevi/my_data_rebuild/issues/4)
 3. [update,delete,insert 语句的加锁](https://github.com/wuhuachuan712/my_data_rebuild/issues/106)
+4. [MySQL：B+Tree 的学习与间隙锁为什么锁上下区间](https://github.com/MikasaLevi/my_data_rebuild/issues/2)
 
----
+A（Actual）实际使用：
 
-3. [MySQL：B+Tree 的学习与间隙锁为什么锁上下区间](https://github.com/MikasaLevi/my_data_rebuild/issues/2)
-4. [MySQL：一些命令的使用](https://github.com/MikasaLevi/my_data_rebuild/issues/1)
+I（Index）索引相关：
+
+1. [索引（I）](https://github.com/wuhuachuan712/my_data_rebuild/issues/107)
+
+其他：
+
+1. [MySQL：一些命令的使用](https://github.com/MikasaLevi/my_data_rebuild/issues/1)
 5. [极客时间-《MySQL实战45讲》学习笔记-基础篇8讲](https://github.com/wuhuachuan712/my_data_rebuild/issues/87)
 6. [极客时间-《MySQL实战45讲》学习笔记-实战篇09-22讲](https://github.com/wuhuachuan712/my_data_rebuild/issues/88)
 7. [极客时间-《MySQL实战45讲》学习笔记-实战篇23-28讲（高可用篇）](https://github.com/wuhuachuan712/my_data_rebuild/issues/89)
