@@ -41,7 +41,7 @@ P（Performance）高可用稳定性相关：
 L（Lock）锁相关：
 
 1. [MySQL 的几种锁](https://github.com/MikasaLevi/my_data_rebuild/issues/3)
-2. [普通索引,主键索引,隔离级别对加锁的影响](https://github.com/MikasaLevi/my_data_rebuild/issues/4)
+2. [select 语句的加锁分析](https://github.com/MikasaLevi/my_data_rebuild/issues/4)
 
 ---
 
