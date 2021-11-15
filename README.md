@@ -66,7 +66,8 @@ Plait（辫子原则）- Performance，Lock，Actual，Index，Transaction
 
 #### Java 集合
 
-1. [Iterable,Colleciton,List,ArrayList,LinkedList](https://github.com/wuhuachuan712/my_data_rebuild/issues/90)
+1. [Java 集合体系以及 Stream 流](https://github.com/wuhuachuan712/my_data_rebuild/issues/90)
+2. [ArrayList 和 LinkedList](https://github.com/wuhuachuan712/my_data_rebuild/issues/109)
 
 #### Java 多线程
 
