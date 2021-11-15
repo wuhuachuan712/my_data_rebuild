@@ -51,6 +51,10 @@ I（Index）索引相关：
 
 1. [索引（I）](https://github.com/wuhuachuan712/my_data_rebuild/issues/107)
 
+T（Transaction）事务相关：
+
+1. [事务（T）](https://github.com/wuhuachuan712/my_data_rebuild/issues/108)
+
 其他：
 
 1. [MySQL：一些命令的使用](https://github.com/MikasaLevi/my_data_rebuild/issues/1)
