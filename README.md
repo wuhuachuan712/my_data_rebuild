@@ -29,31 +29,19 @@
 
 #### 1.5.1 MySQL
 
-[MySQL 架构和存储引擎](https://github.com/wuhuachuan712/my_data_rebuild/issues/101)。Plait（辫子原则）：
+Plait（辫子原则）- Performance，Lock，Actual，Index，Transaction
 
-P（Performance）高可用稳定性相关：
-
-1. [单机模式下可能丢数据的点](https://github.com/wuhuachuan712/my_data_rebuild/issues/102)
-2. [集群模式下可能丢数据的点](https://github.com/wuhuachuan712/my_data_rebuild/issues/103)
-3. [基于binlog的主备同步方式](https://github.com/wuhuachuan712/my_data_rebuild/issues/104)
-4. [1主1备部署实际测试](https://github.com/wuhuachuan712/my_data_rebuild/issues/105)
-
-L（Lock）锁相关：
-
-1. [MySQL 的几种锁](https://github.com/MikasaLevi/my_data_rebuild/issues/3)
-2. [select 语句的加锁分析](https://github.com/MikasaLevi/my_data_rebuild/issues/4)
-3. [update,delete,insert 语句的加锁](https://github.com/wuhuachuan712/my_data_rebuild/issues/106)
-4. [MySQL：B+Tree 的学习与间隙锁为什么锁上下区间](https://github.com/MikasaLevi/my_data_rebuild/issues/2)
-
-A（Actual）实际使用：
-
-I（Index）索引相关：
-
-1. [索引（I）](https://github.com/wuhuachuan712/my_data_rebuild/issues/107)
-
-T（Transaction）事务相关：
-
-1. [事务（T）](https://github.com/wuhuachuan712/my_data_rebuild/issues/108)
+1. [MySQL 架构和存储引擎](https://github.com/wuhuachuan712/my_data_rebuild/issues/101)
+2. [单机模式下可能丢数据的点](https://github.com/wuhuachuan712/my_data_rebuild/issues/102)
+3. [集群模式下可能丢数据的点](https://github.com/wuhuachuan712/my_data_rebuild/issues/103)
+4. [基于binlog的主备同步方式](https://github.com/wuhuachuan712/my_data_rebuild/issues/104)
+5. [1主1备部署实际测试](https://github.com/wuhuachuan712/my_data_rebuild/issues/105)
+6. [MySQL 的几种锁](https://github.com/MikasaLevi/my_data_rebuild/issues/3)
+7. [select 语句的加锁分析](https://github.com/MikasaLevi/my_data_rebuild/issues/4)
+8. [update,delete,insert 语句的加锁](https://github.com/wuhuachuan712/my_data_rebuild/issues/106)
+9. [MySQL：B+Tree 的学习与间隙锁为什么锁上下区间](https://github.com/MikasaLevi/my_data_rebuild/issues/2)
+10. [索引（I）](https://github.com/wuhuachuan712/my_data_rebuild/issues/107)
+11. [事务（T）](https://github.com/wuhuachuan712/my_data_rebuild/issues/108)
 
 其他：
 
