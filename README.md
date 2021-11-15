@@ -50,11 +50,17 @@ Plait（辫子原则）- Performance，Lock，Actual，Index，Transaction
 6. [极客时间-《MySQL实战45讲》学习笔记-实战篇09-22讲](https://github.com/wuhuachuan712/my_data_rebuild/issues/88)
 7. [极客时间-《MySQL实战45讲》学习笔记-实战篇23-28讲（高可用篇）](https://github.com/wuhuachuan712/my_data_rebuild/issues/89)
 
-#### MongoDB
+#### 1.5.2 MongoDB
 
 1. [极客时间-《MongoDB高手课》学习笔记1：概念与复制集](https://github.com/wuhuachuan712/my_data_rebuild/issues/77)
 2. [极客时间-《MongoDB高手课》学习笔记2：模型设计与事务](https://github.com/wuhuachuan712/my_data_rebuild/issues/78)
 3. [极客时间-《MongoDB高手课》学习笔记3：分片集群概念和思路](https://github.com/wuhuachuan712/my_data_rebuild/issues/79)
+
+#### 1.5.3 Redis
+
+1. [Redis 的数据结构和常用命令](https://github.com/wuhuachuan712/my_data_rebuild/issues/97)
+2. [Redis RDB持久化，AOF持久化](https://github.com/wuhuachuan712/my_data_rebuild/issues/98)
+3. [IO多路复用，Redis从单线程到多线程的模型](https://github.com/wuhuachuan712/my_data_rebuild/issues/81)
 
 ### 1.6 编程语言(Java)
 
@@ -165,10 +171,6 @@ Plait（辫子原则）- Performance，Lock，Actual，Index，Transaction
 #### 熔断
 
 #### 缓存
-
-1. [Redis 的数据结构和常用命令](https://github.com/wuhuachuan712/my_data_rebuild/issues/97)
-2. [Redis RDB持久化，AOF持久化](https://github.com/wuhuachuan712/my_data_rebuild/issues/98)
-3. [IO多路复用，Redis从单线程到多线程的模型](https://github.com/wuhuachuan712/my_data_rebuild/issues/81)
 
 ### 2.6 SRE
 
