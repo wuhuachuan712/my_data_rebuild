@@ -39,7 +39,7 @@ Plait（辫子原则）- Performance，Lock，Actual，Index，Transaction
 6. [MySQL 的几种锁](https://github.com/MikasaLevi/my_data_rebuild/issues/3)
 7. [select 语句的加锁分析](https://github.com/MikasaLevi/my_data_rebuild/issues/4)
 8. [update,delete,insert 语句的加锁](https://github.com/wuhuachuan712/my_data_rebuild/issues/106)
-9. [MySQL：B+Tree 的学习与间隙锁为什么锁上下区间](https://github.com/MikasaLevi/my_data_rebuild/issues/2)
+9. [B+Tree 的学习与间隙锁为什么锁上下区间](https://github.com/MikasaLevi/my_data_rebuild/issues/2)
 10. [索引（I）](https://github.com/wuhuachuan712/my_data_rebuild/issues/107)
 11. [事务（T）](https://github.com/wuhuachuan712/my_data_rebuild/issues/108)
 
