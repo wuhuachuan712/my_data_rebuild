@@ -64,30 +64,27 @@ Plait（辫子原则）- Performance，Lock，Actual，Index，Transaction
 
 ### 1.6 编程语言(Java)
 
-#### Java 集合
+#### 1.6.1 Java 集合
 
 1. [Java 集合体系以及 Stream 流](https://github.com/wuhuachuan712/my_data_rebuild/issues/90)
 2. [List 系列：ArrayList 和 LinkedList](https://github.com/wuhuachuan712/my_data_rebuild/issues/109)
 3. [Map 系列：HashMap，LinkedHashMap](https://github.com/wuhuachuan712/my_data_rebuild/issues/110)
 
-#### Java 多线程
+#### 1.6.2 Java 多线程
 
-1. [并发问题的来源(Java内存模型与指令)](https://github.com/MikasaLevi/my_data_rebuild/issues/74)
+1. [Java 内存模型 和 java.util.concurrent 包](https://github.com/MikasaLevi/my_data_rebuild/issues/74)
 2. [java.util.concurrent 包的研究1：整体结构](https://github.com/MikasaLevi/my_data_rebuild/issues/65) 
 3. [CAS && atomic 原子类包 && CAS 相关扩展](https://github.com/MikasaLevi/my_data_rebuild/issues/73)
 4. [Java Thread 类解析](https://github.com/MikasaLevi/my_data_rebuild/issues/75)
 
-#### Java IO
 
-#### Java 内存模型与垃圾回收
+#### 1.6.3 Java 内存模型与垃圾回收
 
 1. [Java 内存区域结构](https://github.com/MikasaLevi/my_data_rebuild/issues/61)
 2. [Java垃圾回收1：垃圾的判断&&基本的收集算法和垃圾回收器](https://github.com/MikasaLevi/my_data_rebuild/issues/6)
 3. [Java垃圾回收2：G1 && Shenandoah && ZGC 垃圾收集器](https://github.com/MikasaLevi/my_data_rebuild/issues/7)
 
-#### Java 语法
-
-1. [Java Stream 流相关](https://github.com/wuhuachuan712/my_data_rebuild/issues/82)
+#### 1.6.4 Java IO
 
 # 二、项目经验
 
