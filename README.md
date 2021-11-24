@@ -82,7 +82,7 @@ Plait（辫子原则）- Performance，Lock，Actual，Index，Transaction
 
 #### 1.6.3 Java 内存模型与垃圾回收
 
-1. [Java 内存区域结构](https://github.com/MikasaLevi/my_data_rebuild/issues/61)
+1. [GC近年变化，堆内存布局，标记算法，Serial 和 Parallel 垃圾收集器](https://github.com/MikasaLevi/my_data_rebuild/issues/61)
 2. [Java垃圾回收1：垃圾的判断&&基本的收集算法和垃圾回收器](https://github.com/MikasaLevi/my_data_rebuild/issues/6)
 3. [Java垃圾回收2：G1 && Shenandoah && ZGC 垃圾收集器](https://github.com/MikasaLevi/my_data_rebuild/issues/7)
 
