@@ -75,7 +75,7 @@ Plait（辫子原则）- Performance，Lock，Actual，Index，Transaction
 #### 1.6.2 Java 多线程
 
 1. [Java 内存模型 和 java.util.concurrent 包](https://github.com/MikasaLevi/my_data_rebuild/issues/74)
-2. [java.util.concurrent 包的研究1：整体结构](https://github.com/MikasaLevi/my_data_rebuild/issues/65) 
+2. [Java, OS 的多线程实现与synchronized(重量锁)，轻量级锁，偏向锁，自旋锁](https://github.com/MikasaLevi/my_data_rebuild/issues/65) 
 3. [CAS && atomic 原子类包 && CAS 相关扩展](https://github.com/MikasaLevi/my_data_rebuild/issues/73)
 4. [Java Thread 类解析](https://github.com/MikasaLevi/my_data_rebuild/issues/75)
 
