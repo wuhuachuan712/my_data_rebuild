@@ -45,18 +45,18 @@ Plait（辫子原则）- Performance，Lock，Actual，Index，Transaction
 10. [索引（I）](https://github.com/wuhuachuan712/my_data_rebuild/issues/107)
 11. [事务（T）](https://github.com/wuhuachuan712/my_data_rebuild/issues/108)
 
-其他：
+MySQL 其他：
 
 1. [MySQL：一些命令的使用](https://github.com/MikasaLevi/my_data_rebuild/issues/1)
-5. [极客时间-《MySQL实战45讲》学习笔记-基础篇8讲](https://github.com/wuhuachuan712/my_data_rebuild/issues/87)
-6. [极客时间-《MySQL实战45讲》学习笔记-实战篇09-22讲](https://github.com/wuhuachuan712/my_data_rebuild/issues/88)
-7. [极客时间-《MySQL实战45讲》学习笔记-实战篇23-28讲（高可用篇）](https://github.com/wuhuachuan712/my_data_rebuild/issues/89)
+5. [《MySQL实战45讲》学习笔记-基础篇8讲](https://github.com/wuhuachuan712/my_data_rebuild/issues/87)
+6. [《MySQL实战45讲》学习笔记-实战篇09-22讲](https://github.com/wuhuachuan712/my_data_rebuild/issues/88)
+7. [《MySQL实战45讲》学习笔记-实战篇23-28讲（高可用篇）](https://github.com/wuhuachuan712/my_data_rebuild/issues/89)
 
 #### 1.5.2 MongoDB
 
-1. [极客时间-《MongoDB高手课》学习笔记1：概念与复制集](https://github.com/wuhuachuan712/my_data_rebuild/issues/77)
-2. [极客时间-《MongoDB高手课》学习笔记2：模型设计与事务](https://github.com/wuhuachuan712/my_data_rebuild/issues/78)
-3. [极客时间-《MongoDB高手课》学习笔记3：分片集群概念和思路](https://github.com/wuhuachuan712/my_data_rebuild/issues/79)
+1. [《MongoDB高手课》学习笔记1：概念与复制集](https://github.com/wuhuachuan712/my_data_rebuild/issues/77)
+2. [《MongoDB高手课》学习笔记2：模型设计与事务](https://github.com/wuhuachuan712/my_data_rebuild/issues/78)
+3. [《MongoDB高手课》学习笔记3：分片集群概念和思路](https://github.com/wuhuachuan712/my_data_rebuild/issues/79)
 
 #### 1.5.3 Redis
 
@@ -76,7 +76,7 @@ Plait（辫子原则）- Performance，Lock，Actual，Index，Transaction
 
 1. [Java 内存模型 和 java.util.concurrent 包](https://github.com/MikasaLevi/my_data_rebuild/issues/74)
 2. [Java, OS 的多线程实现与synchronized(重量锁)，轻量级锁，偏向锁，自旋锁](https://github.com/MikasaLevi/my_data_rebuild/issues/65) 
-3. [CAS && atomic 原子类包 && CAS 相关扩展](https://github.com/MikasaLevi/my_data_rebuild/issues/73)
+3. [AtomicInteger](https://github.com/MikasaLevi/my_data_rebuild/issues/73)
 4. [Java Thread 类解析](https://github.com/MikasaLevi/my_data_rebuild/issues/75)
 
 
