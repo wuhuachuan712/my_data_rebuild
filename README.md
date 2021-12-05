@@ -99,7 +99,7 @@ MySQL 其他：
 5. 如何保障一次上线的稳定性?
 6. 如何保障一次活动的高可用稳定性?
 
-### 2.2 重构与设计模式
+### 2.2 架构设计
 
 1. [DIP：依赖倒置原则的一些理解](https://github.com/wuhuachuan712/my_data_rebuild/issues/83)
 2. [单一职责原则SRP](https://github.com/wuhuachuan712/my_data_rebuild/issues/84)
@@ -107,6 +107,10 @@ MySQL 其他：
 4. [《编程的逻辑》读后感](https://github.com/wuhuachuan712/my_data_rebuild/issues/86)
 5. [策略模式](https://github.com/MikasaLevi/my_data_rebuild/issues/8)
 6. [装饰器模式](https://github.com/MikasaLevi/my_data_rebuild/issues/9)
+
+### 2.3 框架中间件
+
+1. [Spring IOC](https://github.com/wuhuachuan712/my_data_rebuild/issues/115)
 
 ### 2.3 分布式事务
 
