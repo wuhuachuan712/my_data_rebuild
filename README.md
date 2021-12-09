@@ -17,7 +17,6 @@
 7. [网络层：路由器和路由选择](https://github.com/MikasaLevi/my_data_rebuild/issues/99)
 8. [数据链路层](https://github.com/MikasaLevi/my_data_rebuild/issues/68)
 9. [物理层](https://github.com/MikasaLevi/my_data_rebuild/issues/66)
-10. [各种xx网的定义](https://github.com/MikasaLevi/my_data_rebuild/issues/67)
 
 ### 1.4 操作系统
 
