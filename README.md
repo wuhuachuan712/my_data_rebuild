@@ -30,17 +30,17 @@
 
 Plait（辫子原则）- Performance，Lock，Actual，Index，Transaction
 
-1. [MySQL 架构和存储引擎](https://github.com/wuhuachuan712/my_data_rebuild/issues/101)
-2. [单机模式下可能丢数据的点](https://github.com/wuhuachuan712/my_data_rebuild/issues/102)
-3. [集群模式下可能丢数据的点](https://github.com/wuhuachuan712/my_data_rebuild/issues/103)
-4. [基于binlog的主备同步方式](https://github.com/wuhuachuan712/my_data_rebuild/issues/104)
-5. [1主1备部署实际测试](https://github.com/wuhuachuan712/my_data_rebuild/issues/105)
-6. [MySQL 的几种锁](https://github.com/MikasaLevi/my_data_rebuild/issues/3)
-7. [select 语句的加锁分析](https://github.com/MikasaLevi/my_data_rebuild/issues/4)
-8. [update,delete,insert 语句的加锁](https://github.com/wuhuachuan712/my_data_rebuild/issues/106)
-9. [B+Tree 的学习与间隙锁为什么锁上下区间](https://github.com/MikasaLevi/my_data_rebuild/issues/2)
-10. [索引：存储结构，CRUD影响，使用上需要注意的点](https://github.com/wuhuachuan712/my_data_rebuild/issues/107)
-11. [事务：MVCC 与一致性视图](https://github.com/wuhuachuan712/my_data_rebuild/issues/108)
+1. [P：MySQL 架构和存储引擎](https://github.com/wuhuachuan712/my_data_rebuild/issues/101)
+2. [P：单机模式下可能丢数据的点](https://github.com/wuhuachuan712/my_data_rebuild/issues/102)
+3. [P：集群模式下可能丢数据的点](https://github.com/wuhuachuan712/my_data_rebuild/issues/103)
+4. [P：基于binlog的主备同步方式](https://github.com/wuhuachuan712/my_data_rebuild/issues/104)
+5. [P：1主1备部署实际测试](https://github.com/wuhuachuan712/my_data_rebuild/issues/105)
+6. [L：锁的种类](https://github.com/MikasaLevi/my_data_rebuild/issues/3)
+7. [L：select 语句的加锁分析](https://github.com/MikasaLevi/my_data_rebuild/issues/4)
+8. [L：update,delete,insert 语句的加锁](https://github.com/wuhuachuan712/my_data_rebuild/issues/106)
+9. [L：B+Tree 的学习与间隙锁为什么锁上下区间](https://github.com/MikasaLevi/my_data_rebuild/issues/2)
+10. [I：索引：存储结构，CRUD影响，使用上需要注意的点](https://github.com/wuhuachuan712/my_data_rebuild/issues/107)
+11. [T：事务：MVCC 与一致性视图](https://github.com/wuhuachuan712/my_data_rebuild/issues/108)
 
 MySQL 其他：
 
