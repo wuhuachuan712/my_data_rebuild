@@ -110,6 +110,7 @@ MySQL 其他：
 ### 2.3 框架中间件
 
 1. [Spring IOC](https://github.com/wuhuachuan712/my_data_rebuild/issues/115)
+2. [Spring AOP](https://github.com/wuhuachuan712/my_data_rebuild/issues/116)
 
 ### 2.3 分布式事务
 
