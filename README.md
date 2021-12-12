@@ -112,6 +112,7 @@ MySQL 其他：
 1. [Spring IOC](https://github.com/wuhuachuan712/my_data_rebuild/issues/115)
 2. [Spring AOP](https://github.com/wuhuachuan712/my_data_rebuild/issues/116)
 3. [Spring Cloud Feign，RestTemplate，HttpClient，OKHttp](https://github.com/wuhuachuan712/my_data_rebuild/issues/117)
+4. [Spring Cloud Eureka 服务注册与发现](https://github.com/wuhuachuan712/my_data_rebuild/issues/118)
 
 ### 2.3 分布式事务
 
