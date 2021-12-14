@@ -116,8 +116,12 @@ MySQL 其他：
 5. [Spring Cloud Eureka 服务注册与发现](https://github.com/wuhuachuan712/my_data_rebuild/issues/118)
 6. [Hystrix 熔断以及项目中实际的应用](https://github.com/wuhuachuan712/my_data_rebuild/issues/119)
 7. [Ribbon 负载均衡策略](https://github.com/wuhuachuan712/my_data_rebuild/issues/120)
+8. [Airflow（一）： 基础概念](https://github.com/MikasaLevi/my_data_rebuild/issues/57)
+9. [契约测试Pact:从理论到落地coding(一)：理论部分](https://github.com/MikasaLevi/my_data_rebuild/issues/58)
+10. [契约测试Pact:从理论到落地coding(二)：Consumer 端落地 coding](https://github.com/MikasaLevi/my_data_rebuild/issues/59)
+11. [契约测试Pact:从理论到落地coding(三)：不同参数怎么返回不同的响应](https://github.com/MikasaLevi/my_data_rebuild/issues/60)
 
-### 2.3 分布式事务
+### 2.4 分布式事务
 
 #### 一些理论部分的学习
 
@@ -146,7 +150,7 @@ MySQL 其他：
 5. [TCC 模型下的三大问题：空回滚/悬挂/幂等](https://github.com/MikasaLevi/my_data_rebuild/issues/23)
 6. [TCC 在项目中的实际应用以及可能出现的问题](https://github.com/MikasaLevi/my_data_rebuild/issues/24)
 
-### 2.4 高并发
+### 2.5 高并发
 
 1. [并发问题：并发问题的一些处理方案1](https://github.com/MikasaLevi/my_data_rebuild/issues/43)
 2. [并发问题：并发问题的一些处理方案2](https://github.com/MikasaLevi/my_data_rebuild/issues/44)
@@ -160,7 +164,9 @@ MySQL 其他：
 10. 并发问题：记录持久化7-异步化强制缓冲
 11. 并发问题：记录持久化8-吞吐量比缓冲更大的处理方式
 
-### 2.5 技术风险
+### 2.6 技术风险
+
+#### 压测
 
 #### 容量
 
@@ -182,23 +188,16 @@ MySQL 其他：
 
 #### 缓存
 
-### 2.6 SRE
+### 2.7 SRE与运维
 
 1. [K8S(一)：基础概念](https://github.com/MikasaLevi/my_data_rebuild/issues/54)
 2. [K8S(二)：实际使用-部署](https://github.com/MikasaLevi/my_data_rebuild/issues/55)
 3. [CICD 流程：GitLab->ArgoCD->K8S 搭建(一)](https://github.com/MikasaLevi/my_data_rebuild/issues/56)
 
-### 2.7 敏捷实践
+### 2.8 敏捷实践
 
 1. [谈谈对敏捷开发的看法](https://github.com/MikasaLevi/my_data_rebuild/issues/36)
 2. [从第一个敏捷项目后再看敏捷实践的一些坑](https://github.com/MikasaLevi/my_data_rebuild/issues/37)
-
-### 2.8 开源框架
-
-1. [Airflow（一）： 基础概念](https://github.com/MikasaLevi/my_data_rebuild/issues/57)
-2. [契约测试Pact:从理论到落地coding(一)：理论部分](https://github.com/MikasaLevi/my_data_rebuild/issues/58)
-3. [契约测试Pact:从理论到落地coding(二)：Consumer 端落地 coding](https://github.com/MikasaLevi/my_data_rebuild/issues/59)
-4. [契约测试Pact:从理论到落地coding(三)：不同参数怎么返回不同的响应](https://github.com/MikasaLevi/my_data_rebuild/issues/60)
 
 ### 2.9 研发流程与质量保证
 
