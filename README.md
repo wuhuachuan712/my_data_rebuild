@@ -13,10 +13,11 @@
 3. [应用层：HTTPS](https://github.com/wuhuachuan712/my_data_rebuild/issues/100)
 4. [运输层：TCP 的三大特点：可靠传输/流量控制/拥塞控制](https://github.com/MikasaLevi/my_data_rebuild/issues/71)
 5. [运输层：TCP 连接建立与释放：三次/四次握手](https://github.com/MikasaLevi/my_data_rebuild/issues/72)
-6. [网络层：IP地址与ARP协议](https://github.com/MikasaLevi/my_data_rebuild/issues/69)
-7. [网络层：路由器和路由选择](https://github.com/MikasaLevi/my_data_rebuild/issues/99)
-8. [数据链路层](https://github.com/MikasaLevi/my_data_rebuild/issues/68)
-9. [物理层](https://github.com/MikasaLevi/my_data_rebuild/issues/66)
+6. [网络层：IP协议（IP地址，子网，IP数据报）](https://github.com/MikasaLevi/my_data_rebuild/issues/69)
+7. [网络层：路由选择（RIP，BGP）](https://github.com/MikasaLevi/my_data_rebuild/issues/99)
+8. [网络层：配套协议（ARP，ICMP，IGMP）](https://github.com/wuhuachuan712/my_data_rebuild/issues/122)
+9. [数据链路层](https://github.com/MikasaLevi/my_data_rebuild/issues/68)
+10. [物理层](https://github.com/MikasaLevi/my_data_rebuild/issues/66)
 
 ### 1.4 操作系统
 
