@@ -55,7 +55,7 @@ MySQL 其他：
 
 #### 1.5.2 MongoDB
 
-1. [《MongoDB高手课》学习笔记1：概念与复制集](https://github.com/wuhuachuan712/my_data_rebuild/issues/77)
+1. [MongoDB的基本特点：灵活简单/高可用/支持横向扩展](https://github.com/wuhuachuan712/my_data_rebuild/issues/77)
 2. [《MongoDB高手课》学习笔记2：模型设计与事务](https://github.com/wuhuachuan712/my_data_rebuild/issues/78)
 3. [《MongoDB高手课》学习笔记3：分片集群概念和思路](https://github.com/wuhuachuan712/my_data_rebuild/issues/79)
 
