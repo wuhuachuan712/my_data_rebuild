@@ -111,6 +111,7 @@ MySQL 其他：
 4. [《编程的逻辑》读后感](https://github.com/wuhuachuan712/my_data_rebuild/issues/86)
 5. [策略模式](https://github.com/MikasaLevi/my_data_rebuild/issues/8)
 6. [装饰器模式](https://github.com/MikasaLevi/my_data_rebuild/issues/9)
+7. [BFF架构](https://github.com/wuhuachuan712/my_data_rebuild/issues/127)
 
 ### 2.3 框架中间件
 
