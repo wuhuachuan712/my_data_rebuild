@@ -94,6 +94,8 @@ MySQL 其他：
 
 # 二、大型软件研发经验
 
+<img width="1144" alt="截屏2022-02-08 下午5 35 48" src="https://user-images.githubusercontent.com/35925768/152959559-9d873789-eaf6-425a-8e16-119ba8aad21b.png">
+
 ### 2.1 owner 意识 
 
 1. [owner 的职责](https://github.com/MikasaLevi/my_data_rebuild/issues/34)
