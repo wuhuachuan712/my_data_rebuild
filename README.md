@@ -166,13 +166,6 @@ MySQL 其他：
 10. 并发问题：记录持久化7-异步化强制缓冲
 11. 并发问题：记录持久化8-吞吐量比缓冲更大的处理方式
 
-#### 技术风险
-
-这里有 部署架构，压测，容量，弹性，预案，限流 等。
-
-1. [弹性-单元化部署](https://github.com/MikasaLevi/my_data_rebuild/issues/53)
-2. [预案与限流（偏组织层面）](https://github.com/MikasaLevi/my_data_rebuild/issues/52)
-
 ### 2.3 框架中间件原理
 
 1. [Spring IOC](https://github.com/wuhuachuan712/my_data_rebuild/issues/115)
@@ -194,14 +187,21 @@ MySQL 其他：
 7. [研发质量：团队质量意识的push](https://github.com/MikasaLevi/my_data_rebuild/issues/33)
 8. [研发质量：蚂蚁金服(支付宝)-账务团队个人bug总结](https://github.com/MikasaLevi/my_data_rebuild/issues/32)
 
-### 2.4 运维测试
+### 2.4 运维SRE && 测试
 
+运维：
 1. [K8S(一)：基础概念](https://github.com/MikasaLevi/my_data_rebuild/issues/54)
 2. [K8S(二)：实际使用-部署](https://github.com/MikasaLevi/my_data_rebuild/issues/55)
 3. [CICD 流程：GitLab->ArgoCD->K8S 搭建(一)](https://github.com/MikasaLevi/my_data_rebuild/issues/56)
-4. [契约测试Pact:从理论到落地coding(一)：理论部分](https://github.com/MikasaLevi/my_data_rebuild/issues/58)
-5. [契约测试Pact:从理论到落地coding(二)：Consumer 端落地 coding](https://github.com/MikasaLevi/my_data_rebuild/issues/59)
-6. [契约测试Pact:从理论到落地coding(三)：不同参数怎么返回不同的响应](https://github.com/MikasaLevi/my_data_rebuild/issues/60)
+
+SRE技术风险：这里包括 部署架构，压测，容量，弹性，预案，限流 等。
+1. [弹性-单元化部署](https://github.com/MikasaLevi/my_data_rebuild/issues/53)
+2. [预案与限流（偏组织层面）](https://github.com/MikasaLevi/my_data_rebuild/issues/52)
+
+测试：
+1. [契约测试Pact:从理论到落地coding(一)：理论部分](https://github.com/MikasaLevi/my_data_rebuild/issues/58)
+2. [契约测试Pact:从理论到落地coding(二)：Consumer 端落地 coding](https://github.com/MikasaLevi/my_data_rebuild/issues/59)
+3. [契约测试Pact:从理论到落地coding(三)：不同参数怎么返回不同的响应](https://github.com/MikasaLevi/my_data_rebuild/issues/60)
 
 # 三、扩展视野
 
