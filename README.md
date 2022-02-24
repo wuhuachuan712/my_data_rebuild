@@ -33,9 +33,9 @@ Plait（辫子原则）- Performance，Lock，Actual，Index，Transaction
 
 1. [P：主从原理和一致性的保障](https://github.com/wuhuachuan712/my_data_rebuild/issues/103)
 2. [P：主从搭建测试](https://github.com/wuhuachuan712/my_data_rebuild/issues/105)
-3. [P：MySQL 架构和存储引擎](https://github.com/wuhuachuan712/my_data_rebuild/issues/101)
-4. [P：MySQL 的相关日志(binlog，undolog，redolog)](https://github.com/wuhuachuan712/my_data_rebuild/issues/123)
-5. [P：单机一致性保障：故障恢复与双1配置](https://github.com/wuhuachuan712/my_data_rebuild/issues/102)
+3. [P：单机不丢数据：redolog，binlog的二阶段提交与双1配置](https://github.com/wuhuachuan712/my_data_rebuild/issues/102)
+4. [P：MySQL 架构和存储引擎](https://github.com/wuhuachuan712/my_data_rebuild/issues/101)
+5. [P：MySQL 的相关日志(binlog，undolog，redolog)](https://github.com/wuhuachuan712/my_data_rebuild/issues/123)
 6. [P：MySQL 部署架构](https://github.com/wuhuachuan712/my_data_rebuild/issues/124)
 7. [P：基于binlog的主备同步方式](https://github.com/wuhuachuan712/my_data_rebuild/issues/104)
 8. [P：基于GTID的主备同步方式](https://github.com/wuhuachuan712/my_data_rebuild/issues/125)
