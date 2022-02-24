@@ -31,14 +31,14 @@
 
 Plait（辫子原则）- Performance，Lock，Actual，Index，Transaction
 
-1. [P：MySQL 架构和存储引擎](https://github.com/wuhuachuan712/my_data_rebuild/issues/101)
-2. [P：MySQL 的相关日志(binlog，undolog，redolog)](https://github.com/wuhuachuan712/my_data_rebuild/issues/123)
-3. [P：单机一致性保障：故障恢复与双1配置](https://github.com/wuhuachuan712/my_data_rebuild/issues/102)
-4. [P：集群一致性保障：binlog格式和异步半同步和同步方式](https://github.com/wuhuachuan712/my_data_rebuild/issues/103)
-5. [P：MySQL 部署架构](https://github.com/wuhuachuan712/my_data_rebuild/issues/124)
-6. [P：基于binlog的主备同步方式](https://github.com/wuhuachuan712/my_data_rebuild/issues/104)
-7. [P：基于GTID的主备同步方式](https://github.com/wuhuachuan712/my_data_rebuild/issues/125)
-8. [P：1主1备部署实际测试](https://github.com/wuhuachuan712/my_data_rebuild/issues/105)
+1. [P：主从原理和一致性的保障](https://github.com/wuhuachuan712/my_data_rebuild/issues/103)
+2. [P：主从搭建测试](https://github.com/wuhuachuan712/my_data_rebuild/issues/105)
+3. [P：MySQL 架构和存储引擎](https://github.com/wuhuachuan712/my_data_rebuild/issues/101)
+4. [P：MySQL 的相关日志(binlog，undolog，redolog)](https://github.com/wuhuachuan712/my_data_rebuild/issues/123)
+5. [P：单机一致性保障：故障恢复与双1配置](https://github.com/wuhuachuan712/my_data_rebuild/issues/102)
+6. [P：MySQL 部署架构](https://github.com/wuhuachuan712/my_data_rebuild/issues/124)
+7. [P：基于binlog的主备同步方式](https://github.com/wuhuachuan712/my_data_rebuild/issues/104)
+8. [P：基于GTID的主备同步方式](https://github.com/wuhuachuan712/my_data_rebuild/issues/125)
 9. [L：锁的种类](https://github.com/MikasaLevi/my_data_rebuild/issues/3)
 10. [L：select 语句的加锁分析](https://github.com/MikasaLevi/my_data_rebuild/issues/4)
 11. [L：update,delete,insert 语句的加锁](https://github.com/wuhuachuan712/my_data_rebuild/issues/106)
