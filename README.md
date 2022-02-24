@@ -44,7 +44,7 @@ Plait（辫子原则）- Performance，Lock，Actual，Index，Transaction
 11. [L：update,delete,insert 语句的加锁](https://github.com/wuhuachuan712/my_data_rebuild/issues/106)
 12. [L：B+Tree 的学习与间隙锁为什么锁上下区间](https://github.com/MikasaLevi/my_data_rebuild/issues/2)
 13. [I：索引：存储结构，CRUD影响，使用上需要注意的点](https://github.com/wuhuachuan712/my_data_rebuild/issues/107)
-14. [T：事务：MVCC 与一致性视图](https://github.com/wuhuachuan712/my_data_rebuild/issues/108)
+14. [T：事务：隔离级别，MVCC 与一致性视图](https://github.com/wuhuachuan712/my_data_rebuild/issues/108)
 
 MySQL 其他：
 
