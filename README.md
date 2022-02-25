@@ -139,6 +139,10 @@ MySQL 其他：
 
 1. [BFF架构](https://github.com/wuhuachuan712/my_data_rebuild/issues/127)
 
+#### 其他设计问题
+
+1. [缓存问题：缓存穿透，缓存击穿，雪崩](https://github.com/wuhuachuan712/my_data_rebuild/issues/132)
+
 #### 面向对象和设计模式
 
 1. [DIP：依赖倒置原则的一些理解](https://github.com/wuhuachuan712/my_data_rebuild/issues/83)
