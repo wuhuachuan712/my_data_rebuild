@@ -54,8 +54,7 @@ MySQL 其他：
 
 1. [MongoDB的基本特点：灵活简单/高可用/支持横向扩展](https://github.com/wuhuachuan712/my_data_rebuild/issues/77)
 2. [MongoDB 复制集细节：oplog/选举/读写分离](https://github.com/wuhuachuan712/my_data_rebuild/issues/126)
-3. [《MongoDB高手课》学习笔记2：模型设计与事务](https://github.com/wuhuachuan712/my_data_rebuild/issues/78)
-4. [《MongoDB高手课》学习笔记3：分片集群概念和思路](https://github.com/wuhuachuan712/my_data_rebuild/issues/79)
+3. [MongoDB 分片集细节：部署架构/分片策略](https://github.com/wuhuachuan712/my_data_rebuild/issues/79)
 
 #### 1.5.3 Redis
 
