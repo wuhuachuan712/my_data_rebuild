@@ -77,7 +77,8 @@ MySQL 其他：
 2. [Java, OS 的多线程实现与synchronized(重量锁)，轻量级锁，偏向锁，自旋锁](https://github.com/MikasaLevi/my_data_rebuild/issues/65) 
 3. [AtomicInteger](https://github.com/MikasaLevi/my_data_rebuild/issues/73)
 4. [locks 包：ReentrantLock](https://github.com/wuhuachuan712/my_data_rebuild/issues/113)
-5. [Thread，线程池](https://github.com/MikasaLevi/my_data_rebuild/issues/75)
+5. [Thread](https://github.com/MikasaLevi/my_data_rebuild/issues/75)
+6. [ThreadPoolExecutor 线程池](https://github.com/wuhuachuan712/my_data_rebuild/issues/133)
 
 
 #### 1.6.3 Java 内存模型与垃圾回收
