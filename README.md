@@ -67,7 +67,7 @@ MySQL 其他：
 #### 1.6.1 Java 集合
 
 1. [Java 集合体系以及 Stream 流](https://github.com/wuhuachuan712/my_data_rebuild/issues/90)
-2. [List 系列：ArrayList 和 LinkedList](https://github.com/wuhuachuan712/my_data_rebuild/issues/109)
+2. [ArrayList, LinkedList, 多线程安全版本](https://github.com/wuhuachuan712/my_data_rebuild/issues/109)
 3. [Map 系列：HashMap，LinkedHashMap](https://github.com/wuhuachuan712/my_data_rebuild/issues/110)
 4. [Map 系列2：Hashtable，ConcurrentHashMap](https://github.com/wuhuachuan712/my_data_rebuild/issues/114)
 
